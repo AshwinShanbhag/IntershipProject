@@ -1,2 +1,21 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+
+# Logs
+*.log
+
+# Environment variables file
+.env
+
+# Compiled Python files
+*.pyc
+
+
+
+
